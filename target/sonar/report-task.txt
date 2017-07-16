@@ -1,0 +1,6 @@
+projectKey=G1Expertise:G1Expertise
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/G1Expertise:G1Expertise
+ceTaskId=AV1LwwGxr9y2iH18s7rF
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV1LwwGxr9y2iH18s7rF
